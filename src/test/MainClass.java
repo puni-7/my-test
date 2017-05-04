@@ -30,7 +30,7 @@ public class MainClass
 				}
 				else
 				{
-					System.out.println("Enetered facility id is not valid");
+					System.out.println("Entered facility id is not valid");
 				}
 			}
 			else
